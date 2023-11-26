@@ -1,0 +1,2 @@
+^--started with
+$--ends with
